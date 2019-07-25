@@ -9,6 +9,8 @@ h1 {
     font-family: 'Monda', sans-serif;
     font-size: 42px;
     margin: 40px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.534);
+    text-align: center
 
 }
 input {
@@ -18,10 +20,20 @@ input {
 .calculator {
     background: #fff;
     border: 2px solid #000;
-    width: 40%;
+    max-width: 300px;
     margin: 40px;
+    margin: 0 auto;
 }
 
 .calculator-data {
     padding: 20px;
+}
+.bill, .percent {
+    margin: 10px;
+}
+
+.calc {
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Monda', sans-serif;
 }
