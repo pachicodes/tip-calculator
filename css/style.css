@@ -20,7 +20,7 @@ input {
 .calculator {
     background: #fff;
     border: 2px solid #000;
-    max-width: 300px;
+    max-width: 400px;
     margin: 40px;
     margin: 0 auto;
 }
@@ -36,4 +36,9 @@ input {
     margin: 0 auto;
     text-align: center;
     font-family: 'Monda', sans-serif;
+}
+
+.res p {
+    margin: 10px;
+    padding: 5px;
 }
