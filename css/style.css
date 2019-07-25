@@ -1,7 +1,27 @@
 body {
-    font-family: 'Arvo', serif; 
+    font-family: 'Arvo', serif;
+    font-size: 34px;
+    background: #b6cc66;
+    
 }
 
 h1 {
     font-family: 'Monda', sans-serif;
+    font-size: 42px;
+    margin: 40px;
+
+}
+input {
+    width: 100px;;
+}
+
+.calculator {
+    background: #fff;
+    border: 2px solid #000;
+    width: 40%;
+    margin: 40px;
+}
+
+.calculator-data {
+    padding: 20px;
 }
