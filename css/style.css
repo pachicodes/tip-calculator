@@ -1,3 +1,7 @@
-.bill, .percent, .calc {
-    display: block;
+body {
+    font-family: 'Arvo', serif; 
+}
+
+h1 {
+    font-family: 'Monda', sans-serif;
 }
