@@ -9,6 +9,6 @@ function calcTip() {
 let billNum = Number(bill.value);
 let percentNum = Number(percent.value);
 
-let tip = billNum * percentNum / 100;
-console.log(let)
+let tip = (billNum * percentNum) / 100;
+console.log(tip)
 }
